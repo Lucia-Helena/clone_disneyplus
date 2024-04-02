@@ -12,12 +12,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^5.0.0",
+    "gulp": "^4.0.2",
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^5.1.0",
-    "sass": "^1.72.0"
+    "sass": "^1.56.1"
   },
   "dependencies": {
-    "uglify-js": "^3.17.4"
+    "uglify-js": "^3.0.2"
   }
 }
