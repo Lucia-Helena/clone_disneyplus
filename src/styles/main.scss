@@ -127,11 +127,11 @@ body {
 
     &--dark {
         background-color: rgba(variaveis.$corDeFundoBotaoDark, 0.8);
-        border-color: variaveis.$corTextoSecundario;
+        
 
         &:hover {
-            background-color: variaveis.$corTextoSecundario;
-            color: variaveis.$corDeFundo;
+            background-color: lighten(variaveis.$corDeFundoBotaoPrimario, 3%);
+           
         }
     }
 }
